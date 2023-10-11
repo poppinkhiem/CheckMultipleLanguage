@@ -15,10 +15,6 @@ public class HomePage {
 
 	}
 
-	public HomePage() {
-		// TODO Auto-generated constructor stub
-	}
-
 	private By serviceLabel = By.xpath("/html/body/header/div[4]/div/nav[1]/ul/li[1]/a");
 	private By productLabel = By.xpath("/html/body/header/div[4]/div/nav[1]/ul/li[2]/a");
 	private By customerLabel = By.xpath("/html/body/header/div[4]/div/nav[1]/ul/li[3]/a");
